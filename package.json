@@ -1,0 +1,35 @@
+{
+	"name": "polygon-direction",
+	"description": "determine if a polygon is clockwise or counter-clockwise",
+	"version": "0.1.0",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/yetzt/node-polygon-direction.git"
+	},
+	"main": "index.js",
+	"keywords": [
+		"polygon",
+		"direction"
+	],
+	"directories": {
+		"lib": "."
+	},
+	"engines": {
+		"node": ">= 0.8.15"
+	},
+	"license": "Public Domain",
+	"licenses": [{
+		"type": "Public Domain",
+		"url": "http://unlicense.org/UNLICENSE"
+	}],
+	"author": {
+		"name": "Sebastian Vollnhals",
+		"email": "sebastian@vollnhals.info",
+		"url": "http://vollnhals.info/"
+	}
+	"maintainers": [{
+		"name": "Sebastian Vollnhals",
+		"email": "sebastian@vollnhals.info",
+		"web": "http://vollnhals.info/"
+	}]
+}

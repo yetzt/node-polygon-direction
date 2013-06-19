@@ -1,0 +1,1 @@
+module.exports = function(p){ var sum = 0; p.push(p[0]); for (var i = 1; i < p.length; i++) sum += (p[i][0]-p[i-1][0])*(p[i][1]+p[i-1][1]); p.pop(); return (sum > 0); }; // i always wanted to write an useful one-line-module
