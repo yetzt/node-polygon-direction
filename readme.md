@@ -10,7 +10,7 @@ npm install polygon-direction
 
 ## Methods
 
-var polydir = require("point-in-polygon");
+var polydir = require("polygon-direction");
 
 ### polydir(polygon)
 
